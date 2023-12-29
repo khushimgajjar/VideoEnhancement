@@ -18,7 +18,13 @@
 
 6. **Downloading the Upscaled Files:**
    - To download a specific file, right-click on the desired .mp4 file within the "results_mp4_videos" folder and choose the download option.
-  
-   
+
+### Limitations:
+
+1. **Processing Time:**
+   - The upscaling process may take a considerable amount of time, influenced by factors such as the duration of the videos and the quantity of files selected. Users are advised to be patient during the computation process.
+
+2. **High Computational Resource Requirement:**
+   - The upscaling task demands significant computational resources. Ensure your system has adequate processing power and memory for optimal performance.
 
 
