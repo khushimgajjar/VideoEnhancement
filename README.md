@@ -13,4 +13,12 @@
 4. **Result Retrieval:**
    - Once the upscaling process is complete, you can find the upscaled video results in the "results_mp4_videos" folder.
 
+5. **Accessing Upscaled Videos:**
+   - All upscaled .mp4 files can be found within the "results_mp4_videos" folder, located inside the GFPGAN directory.
+
+6. **Downloading the Upscaled Files:**
+   - To download a specific file, right-click on the desired .mp4 file within the "results_mp4_videos" folder and choose the download option.
+  
+   
+
 
